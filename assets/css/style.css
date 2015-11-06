@@ -322,6 +322,10 @@ h1, h2, h3, h4, h5, h6 {
 	background-size: 73px 17px;
 }
 
+.name-desc {
+  text-align: center;
+}
+
 .name-desc h2 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 40px;
@@ -469,6 +473,10 @@ h1, h2, h3, h4, h5, h6 {
   -o-transition: opacity 0.4s;
   transition: opacity 0.4s;
 
+}
+
+.project-wrapper {
+  text-align: center;
 }
 
 .project:hover .photo-wrapper {
